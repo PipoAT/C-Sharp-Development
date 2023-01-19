@@ -7,3 +7,8 @@ https://www.csharp-console-examples.com/winform/c-windows-form-application-examp
 https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2022
 
 https://www.sanfoundry.com/csharp-programming-examples/
+
+
+
+FOR SERIAL COMM:
+https://www.instructables.com/Serial-Port-Programming-With-NET/
